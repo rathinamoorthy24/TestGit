@@ -7,6 +7,7 @@ public class FirstSelenium {
 	@Test
 	public void printHello()
 	{
+		//Print messsage
 		System.out.println("Hello");
 	}
 }
